@@ -9,9 +9,9 @@ Integrate odds against every Premier League team and add as variable for player 
 
 Goals:
 
-1. We are going to need to get data on which players are in our team, data on Premier League teams, data on Premier League players and data on what fixtures are coming up.
+1. We are going to need to get data on which players are in our team, data on Premier League teams, data on Premier League players and fixture data.
 
-2. We need to know what number gameweek is coming up and we want to know if a deadline is within 24 hours so we only make a change before the deadline.
+2. We need to know the upcoming gameweek, and if we're within a deadline to make changes.
 
 3. We need to give a weighting to each player on our selected team based on their form, their upcoming fixtures and whatever other data we decide to use and pick one to transfer out.
 
