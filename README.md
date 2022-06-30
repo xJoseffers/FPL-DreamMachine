@@ -1,6 +1,12 @@
 # FPL-DreamMachine
 A python script made with the goal to automate the Fantasy Premier League game. 
 
+TO DO:
+
+Create web scraping tool for bookie odds via Selenium.
+
+Integrate odds against every Premier League team and add as variable for player selection. 
+
 Goals:
 
 1. We are going to need to get data on which players are in our team, data on Premier League teams, data on Premier League players and data on what fixtures are coming up.
